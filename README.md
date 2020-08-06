@@ -1,2 +1,2 @@
-# spring-retry-sample
+# spring-retry-example
  
